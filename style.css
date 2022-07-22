@@ -788,6 +788,11 @@ h3 {
     padding: 40px
 }
 
+.gread {
+    width: 230px;
+    height: 40px;
+}
+
 .bold-link {
     font-weight: 900;
     text-decoration: underline !important
