@@ -766,9 +766,19 @@ h3 {
 .reformation {
     text-align: left;
     border: 1px solid black;
+    border: none;
     padding: 30px;
-    width: 30%;
+    width: 40%;
     margin: auto;
+}
+
+.form-group {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.modif {
+    padding: 20px;
 }
 
 .icons {
