@@ -763,6 +763,14 @@ h3 {
     box-shadow: 0 0 0 #000
 }
 
+.reformation {
+    text-align: left;
+    border: 1px solid black;
+    padding: 30px;
+    width: 30%;
+    margin: auto;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px
