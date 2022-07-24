@@ -3,7 +3,7 @@
     z-index: 1
 }
 
-#ech,
+
 .dord,
 .flo {
     display: flex
@@ -415,10 +415,15 @@ a:hover {
     font-weight: 700
 }
 
-#ech {
-    flex-direction: column;
+#ech_1,
+#ech_2,
+#ech_3,
+#ech_4 {
+    flex-direction: row;
     font-size: 10px;
-    color: #fff
+    color: #fff;
+    display: flex;
+    flex-direction: column;
 }
 
 .spc {
