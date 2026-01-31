@@ -25,7 +25,7 @@
   "dependencies": {
     "debug": "^2.3.3",
     "rename": "^1.0.3",
-    "sharp": "^0.16.2"
+    "sharp": "^0.26.0"
   },
   "devDependencies": {
     "mocha": "^3.2.0",
